@@ -1,0 +1,11 @@
+function Welcome() {
+	return <h1>Hola a todo el mundo</h1>;
+}
+
+class Welcome extends React.Component {
+	render() {
+		return <h1>Hola a todo el mundo</h1>;
+	}
+}
+
+const element = <Welcome/>;

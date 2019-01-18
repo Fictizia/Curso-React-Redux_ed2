@@ -1,0 +1,8 @@
+const element = (
+  <div>
+    <h1 style={{ colot: "red" }}>Hello!</h1>
+    <h2>Good to see you here.</h2>
+  </div>
+);
+
+ReactDOM.render(element, document.getElementById("root"));

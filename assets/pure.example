@@ -1,0 +1,7 @@
+function square(l) {
+	return l * l;
+}
+
+function bitcointWalletPrice(amount) {
+	return amount * bitcoinService.getActualPrice();
+}

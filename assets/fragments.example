@@ -1,0 +1,23 @@
+Table = () =>
+	<table>
+		<tr>
+			<Columns />
+		</tr>
+	</table>;
+
+Columns = () =>
+	<div>
+		<td>Hello</td>
+		<td>World</td>
+	</div>;
+
+/*
+<table>
+  <tr>
+    <div>
+      <td>Hello</td>
+      <td>World</td>
+    </div>
+  </tr>
+</table>
+ */

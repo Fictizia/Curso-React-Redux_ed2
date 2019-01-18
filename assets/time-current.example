@@ -1,0 +1,8 @@
+handleClick(i) {
+	const history = this.state.history.slice(0, this.state.stepNumber + 1);
+	// the rest has not changed
+
+render() {
+	const history = this.state.history;
+	const current = history[this.state.stepNumber];
+	// the rest has not changed

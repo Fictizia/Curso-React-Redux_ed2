@@ -1,0 +1,4 @@
+<button onClick="activateLasers()">Activate Lasers</button>
+
+
+<button onClick={activateLasers}>Activate Lasers</button>
