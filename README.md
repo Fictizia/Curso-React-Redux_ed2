@@ -1,6 +1,6 @@
 ![WideImg](http://fictizia.com/img/github/Fictizia-plan-estudios-github.jpg)
 
-# [Curso React + Redux en academia. Edición 2](https://fictizia.com/formacion/curso-react-js-redux)
+# [Curso React + Redux](https://fictizia.com/formacion/curso-react-js-redux)
 ## Desarrollo de aplicaciones complejas con ReactJS testing con Enzyme
 
 ### Enfoque y objetivos del Curso
