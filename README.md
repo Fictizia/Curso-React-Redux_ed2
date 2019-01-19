@@ -16,3 +16,7 @@ React (también llamado ReactJS o React.js) es una librería de JavaScript que f
 	```shell
     npm run start
 	```
+
+#### Enlace al Tres en Raya con todos los ejercicios resueltos:
+
+https://codepen.io/javidalpe/pen/aPeZxr
